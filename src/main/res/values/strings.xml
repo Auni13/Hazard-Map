@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hazard Map</string>
+    <string name="dev_info">Developers List</string>
+    <string name="dev_name">Auni Syafiqah  Nurul Zulaikha  Nur Izzati  Nursyifa Adhwa</string>
+    <string name="dev_group">RCS2515A </string>
+    <string name="dev_matricno">2020834942      2020608906    2020615286    2020495458</string>
+    <string name="dev_code">ICT650</string>
+    <string name="link"><a href="https://github.com/Auni13/Hazard-Map">github.com/Auni13/Hazard-Map</a></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="googleapi">AIzaSyCrgTalOFhCoWZL7bftx2aY6t0h-dYAoS8</string>
+    <string name="info">A danger is something that has the potential to cause damage, harm, or adverse health effects to something or someone. A hazard is the potential for harm or an undesirable impact, such as injury to people through health effects, harm to organisations through property or equipment losses, or harm to the environment. Being aware of any potential threats can help us stay healthy and avoid damage or illness. We must be aware of our surroundings and recognise potential hazards and harmful circumstances. You are unlikely to detect danger if you are unaware of it.</string>
+    <string name="copyright">Copyright &#169; 2022 Zulaikha Auni Izzati Syifa</string>
+    <string name="front">Welcome to Hazard Map</string>
+</resources>
